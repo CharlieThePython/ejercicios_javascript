@@ -10,3 +10,4 @@ const persona = {
 
 const {nombre,amigos: [firstElement]} = persona;
 console.log(firstElement);
+
